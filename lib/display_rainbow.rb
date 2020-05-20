@@ -1,3 +1,3 @@
 def display_rainbow(colors)
-  prints "Letter: #{}, Color: #{colors}"
+  puts "Letter: #{}, Color: #{colors}"
 end
